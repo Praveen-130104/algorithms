@@ -2,6 +2,7 @@
     Two Pointer 
     -> Find if there exists any pair of elements (A[i], A[j]) such that their sum is equal to X
     -> Find the closest pair from two sorted arrays
+    -> More questions - https://www.geeksforgeeks.org/two-pointers-technique/
 
 */
 

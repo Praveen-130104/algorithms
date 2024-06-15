@@ -70,7 +70,7 @@ int main(){
     Test Case 2:
     5
     1 2 3 7 5
-    12 - value of s
+    12 - value of s 
     Output:
     2 4
 */
